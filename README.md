@@ -5,11 +5,11 @@
 > Made as a practice for Active Record in rails. The app works in the rails console and allows the user to play with the relations between comments, posts and users.
 
 
-![screenshot](./screenshot1.png)
+![screenshot](app/assets/images/screenshot1.png)
 
-![screenshot](./screenshot2.png)
+![screenshot](app/assets/images/screenshot2.png)
 
-![screenshot](./screenshot3.png)
+![screenshot](app/assets/images/screenshot3.png)
 
 
 ## Built With
