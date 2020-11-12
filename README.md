@@ -18,6 +18,19 @@
 - Ruby on rails
 - SQLite3
 
+## Pre-requisites
+
+- Ruby 2.7.0
+- Rails gem
+- Bundle
+
+## How it works
+
+- Clone the repository locally from [here](https://github.com/kcotrinam/micro-reddit)
+- Open micro-reddit folder and run `Bundle install`
+- Run `rails db:migrate`
+- Run `rails console`
+
 ## Authors
 
 👤 **Khristian Rojas**
